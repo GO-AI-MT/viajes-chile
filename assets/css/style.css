@@ -1,0 +1,4 @@
+html { scroll-behavior: smooth; }
+body { padding-top: 56px; } /* Ajuste por Navbar fija */
+section { padding: 40px 0; }
+.bg-info { background-color: #17a2b8 !important; }
